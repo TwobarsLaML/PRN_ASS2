@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\businessobjects\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\addroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\addcustomerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addcustomerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\customerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\updateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\updatecustomerinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updatecustomerinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\updatecustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\updatecustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|solutionrelative:repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|solutionrelative:repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|solutionrelative:repository\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\repository\\roomtypereposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D03CB1D-DEF5-4020-9B19-7D52CEE862C9}|Repository\\Repository.csproj|solutionrelative:repository\\roomtypereposity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\dataaccesslayer\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676030B-E6D2-4AE4-BB97-C48E0E99BD17}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EF7B00-0D1D-465B-9D7C-24CB21D6458C}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\taviethoang_se1822_assignment2\\hotelmanagementwpfapp\\addcustomerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{287C103C-BFFE-4B6E-B9FD-B10E4AC623FD}|HotelManagementWPFApp\\HotelManagementWPFApp.csproj|solutionrelative:hotelmanagementwpfapp\\addcustomerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\App.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\App.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T15:22:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\Admin.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\Admin.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\Admin.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:20:55.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\Admin.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\Admin.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T15:20:00.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateRoom.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateRoom.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateRoom.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateRoom.xaml.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAcwGEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:13:29.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCustomerInfo.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateCustomerInfo.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateCustomerInfo.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateCustomerInfo.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateCustomerInfo.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwE8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:13:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCustomer.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\UpdateCustomer.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\UpdateCustomer.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\UpdateCustomer.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:12:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerForm.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\CustomerForm.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\CustomerForm.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\CustomerForm.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\CustomerForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:11:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddRoom.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddRoom.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddRoom.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddRoom.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T15:10:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRoom.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddRoom.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddRoom.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddRoom.xaml.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwEoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:10:08.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCustomerForm.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddCustomerForm.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddCustomerForm.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddCustomerForm.xaml.cs",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddCustomerForm.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAADIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:08:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingDetailRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\BookingDetailRepository.cs",
+              "RelativeToolTip": "Repository\\BookingDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:14.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingReservationRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\BookingReservationRepository.cs",
+              "RelativeToolTip": "Repository\\BookingReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:13.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\RoomRepository.cs",
+              "RelativeToolTip": "Repository\\RoomRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomTypeReposity.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\RoomTypeReposity.cs",
+              "RelativeDocumentMoniker": "Repository\\RoomTypeReposity.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\Repository\\RoomTypeReposity.cs",
+              "RelativeToolTip": "Repository\\RoomTypeReposity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:04:41.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingReservationDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:00:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:48:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomTypeDAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:47:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomInformationDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\RoomInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomInformationDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\RoomInformationDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomInformationDAO.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:13:21.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:13:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:13:00.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObjects\\appsettings.json",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\appsettings.json",
+              "RelativeToolTip": "BusinessObjects\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T14:01:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\FuminiHotelManagementContext.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\BusinessObjects\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "BusinessObjects\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:59:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddCustomerForm.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "RelativeDocumentMoniker": "HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\TaVietHoang_SE1822_Assignment2\\HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "RelativeToolTip": "HotelManagementWPFApp\\AddCustomerForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T04:52:36.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
